@@ -1,0 +1,64 @@
+
+.nav-link{
+    color:white;
+    font-weight: 400;
+}
+.nav-link:hover{ 
+    background-color: #8c8c8c;
+    color:black;
+    font-weight: bold;
+}
+.bimg{
+    position:relative;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.bimg1{
+    position:relative;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+}
+.parallax {
+    
+  
+    /* Set a specific height */
+    min-height: 508px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax1 {
+    
+  
+    /* Set a specific height */
+    min-height: 340px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax2 {
+    
+  
+    /* Set a specific height */
+    min-height: 570px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
