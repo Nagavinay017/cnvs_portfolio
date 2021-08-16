@@ -6,4 +6,3 @@ Technologies used for this website :<br />
 - Jquery<br />
 - BootStrap<br />
 
-### [Website Link](https://nagavinay017.github.io/cnvs_portfolio/)
